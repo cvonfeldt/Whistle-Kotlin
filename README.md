@@ -1,3 +1,5 @@
+# Whistle
+
 **Developed TikTok-like video sharing app with built-in video compression, media storage, and intuitive user interface.
 Published to the Google Play Store with 10+ active users and real-time video upload, streaming, and interaction features.
 Worked in a small team and was responsible for managing backend utilities - ensuring scalable, cloud-hosted data management, and secure authentication with Firebase/OAuth Authentication for backend services and Cloudinary for media storage.**
