@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620305323087",
+    "project_id": "whistle-cbcc2",
+    "storage_bucket": "whistle-cbcc2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620305323087:android:994d701caa2d33f565063a",
+        "android_client_info": {
+          "package_name": "com.whistle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620305323087-22pnivh31mafgih6v9fimdcb015g23jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whistle",
+            "certificate_hash": "038c2f380d5e8db76dc23cf132c593a6a436a29c"
+          }
+        },
+        {
+          "client_id": "620305323087-gusngp4s5k4p3btqk6sjfadlkimma523.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJWPvzd11TAWx-paV6XhCxpHDypeHdiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620305323087-gusngp4s5k4p3btqk6sjfadlkimma523.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

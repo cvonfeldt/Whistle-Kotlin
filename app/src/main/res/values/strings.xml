@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Whistle</string>
+    <string name="content_placeholder">Loading…</string>
+    <string name="profile_button_desc">A button that takes you to your profile.</string>
+    <string name="home_button_desc">A button that takes you to the home feed.</string>
+    <string name="activity_button_desc">A button that shows you your recent activity.</string>
+    <string name="settings_button_desc">A button that takes you to the app settings.</string>
+    <string name="upload_button_desc">A button that takes you to the upload screen.</string>
+    <string name="search_button_desc">A button that takes you to the content-search screen.</string>
+    <string name="like_button_desc">A button to give a like to a piece of content.</string>
+    <string name="dislike_button_desc">A button to give a dislike to a piece of content.</string>
+    <string name="dislike_button_action_placeholder">Disliked content :(</string>
+    <string name="like_button_action_placeholder">Liked content :)</string>
+    <string name="theme_setting_prompt">Theme:</string>
+    <string name="theme_option_1">Dark</string>
+    <string name="theme_option_2">Light</string>
+    <string name="theme_option_3">System</string>
+    <string name="sound_setting_prompt">Sounds:</string>
+    <string name="label_off">Off</string>
+    <string name="label_on">On</string>
+
+    <string name="settings_back_button">Back</string>
+    <string name="dark_mode">Dark Mode</string>
+
+    <string name="login_title">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="skip_button">Skip for now</string>
+    <string name="signup_prompt">Don\'t have an account? Sign up</string>
+
+    <string name="notifications_title">Notifications</string>
+
+    <!-- Profile Screen Strings -->
+    <string name="profile_name">John Doe</string>
+    <string name="followers_label">Followers</string>
+    <string name="following_label">Following</string>
+    <string name="gold_label">Gold</string>
+    <string name="silver_label">Silver</string>
+    <string name="awards_section_title">Awards</string>
+    <string name="gold_awards_label">Gold Awards</string>
+    <string name="silver_awards_label">Silver Awards</string>
+    <string name="bronze_awards_label">Bronze Awards</string>
+    <string name="posts_section_title">Posts</string>
+
+    <string name="post_screen_title">Upload a Post</string>
+    <string name="caption_hint">Enter a title...</string>
+    <string name="post_button">Post</string>
+    <string name="upload_content_desc">Upload</string>
+    <string name="record_video_content_desc">Record Video</string>
+
+    <string name="search_hint">Search</string>
+    <string name="back_button_content_desc">Back</string>
+    <string name="search_icon_content_desc">Search Icon</string>
+    <string name="trending_searches">Trending Searches</string>
+    <string name="search_results">Search Results</string>
+    <string name="no_results_found">No results found</string>
+    <string name="trend_funny_videos">Funny Videos</string>
+    <string name="trend_video_games">Video Games</string>
+    <string name="trend_music_trends">Music Trends</string>
+
+
+    <string name="total_aura_label">Total Aura</string>
+    <string name="likes_received_label">Likes Received</string>
+    <string name="awards_available_label">Awards Available</string>
+    <string name="awards_received_label">Awards Received</string>
+    <string name="my_uploads_title">My Uploads</string>
+    <string name="no_uploads_yet">No uploads yet</string>
+    <string name="signup_title">Create Account</string>
+    <string name="name_hint">Full Name</string>
+
+    <string name="password_hint">Password</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="login_prompt">Already have an account? Log in</string>
+
+</resources>
