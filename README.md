@@ -1,4 +1,4 @@
-# Whistle
+# Whistle App
 
 **Developed TikTok-like video sharing app with built-in video compression, media storage, and intuitive user interface.
 Published to the Google Play Store with 10+ active users and real-time video upload, streaming, and interaction features.
